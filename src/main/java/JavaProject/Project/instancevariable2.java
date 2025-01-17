@@ -8,7 +8,7 @@ public class instancevariable2 {
 	
 	int rollno;
 	double marks; //instance variable
-	int x=9;
+
 	
 //  using constructor if only 1 member for all obj use only above data memeber 
 //	if you want to change for each object then u need to use an constructor
@@ -27,14 +27,15 @@ public class instancevariable2 {
 		instancevariable2 newobj3 = new instancevariable2(3,83.3);
 		newobj3.show();
 		
-//for non static Each instances if you create 10 objects also gets
-//10 own copies of datatmember or instance variiable it is set like that
-		
-	}
+// for non static Each instances if you create 10 objects also gets
+// 10 own copies of datatmember or instance variiable it is set like that
+// higher preferences given to local variables 
+// if you have certain variables which u want to access through out diff methods go for instances variables
+
+		}
 	
 	public void show() {
-		int x=10;
-		System.out.println(x);
+	
 		System.out.println("Rollnymb : " + rollno + ","+"and marks are   "+marks );
 	}
 }
