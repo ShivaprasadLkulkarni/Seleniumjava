@@ -3,7 +3,7 @@ package package2;
 public class howtoreturn {
  // This methods are accessed in this passingparamsandreturnvalue class check once
 	
-     public static int add(int a,int b) {
+     public  int add(int a,int b) {
 	  int c=a+b;
 	   return c;
      }

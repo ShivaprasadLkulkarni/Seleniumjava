@@ -6,9 +6,9 @@ public static void main(String[] args) {
 //	  TO MAKE OUR PROGRAM DYNAMIC WE CAN PASS PARAM WHILE CALLING METHODS
 //	  PARAMETER CAN BE COMPILED TIME AND RUN TIME AS WELL.
 	 
-      passingparamsandreturnvalue obj1 = new passingparamsandreturnvalue();
-      obj1.add(112, 122);
-      obj1.sub(122.1212,1212.231);
+//      passingparamsandreturnvalue obj1 = new passingparamsandreturnvalue();
+//      obj1.add(112, 122);
+//      obj1.sub(122.1212,1212.231);
 //	
 //    other class object accesing in this class can also be done but 
 //	  obj using classname has to be created using 
