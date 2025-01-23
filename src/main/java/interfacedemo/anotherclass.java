@@ -4,9 +4,6 @@ public class anotherclass implements interfacedemocalc  {
 public static void main(String[] args) {
 	
 	
-	  x=50;
-	 
-	
 
 }
 
