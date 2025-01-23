@@ -1,4 +1,4 @@
-package keyowrdsjava;
+package superkeyowrdsjava;
 
 //This is one of the Reserved keyowrd in java andsuper keyword is then refernace variables
 // super keyword can be used with variables,methods and constructor

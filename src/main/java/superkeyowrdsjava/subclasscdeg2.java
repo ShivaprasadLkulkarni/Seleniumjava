@@ -1,4 +1,4 @@
-package keyowrdsjava;
+package superkeyowrdsjava;
 
 public class subclasscdeg2 extends parentclassconstructoreg1 {
 

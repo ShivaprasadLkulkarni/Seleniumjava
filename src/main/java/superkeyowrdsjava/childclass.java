@@ -1,4 +1,4 @@
-package keyowrdsjava;
+package superkeyowrdsjava;
 
 public class childclass extends superkeywordbaseclass{
     int int_rate=10;

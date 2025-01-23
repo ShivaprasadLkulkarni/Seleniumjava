@@ -1,13 +1,17 @@
 package thiskeyword;
 
 public class myvariables {
-	int x;//global variabe
+	int x;//global variabe in blue
 	int y;
 	
-	public myvariables(int x,int y) // local variable {
+	public myvariables(int a,int b)
+//	public myvariables(int x,int y) // local variable {
 	{
-		this.x=x;// this alsways refers to current class refernace variables
-		this.y=y;
+//		this.x=x;// this alsways refers to current class refernace variables
+//		this.y=y;
+//		
+		x=a;
+		y=b;
 	}
 	
 	public void sum() {
