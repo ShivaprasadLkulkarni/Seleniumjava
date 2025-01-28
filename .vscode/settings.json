@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
+=======
+    "java.debug.settings.onBuildFailureProceed": true,
+>>>>>>> a0df85bc22002ce0cf6a0073707518a4c066752f
     "java.compile.nullAnalysis.mode": "automatic"
 }
