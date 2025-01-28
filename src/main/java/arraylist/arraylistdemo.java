@@ -12,8 +12,9 @@ import java.util.ArrayList;
 //it is an dynamic data structure mmery from heap 
 // array list based on data it can accepts
 //java collection framework provieds many interface
-//Interfaces - Set List Queue Deque 
-// Classes Arraylist vector LinkedList Priority Queue,
+
+//Interfaces - Set List Queue Deque map
+//Classes Arraylist vector LinkedList Priority Queue,
 //HashSet LinkedSet Treeset
 
 
