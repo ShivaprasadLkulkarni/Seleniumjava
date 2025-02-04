@@ -7,7 +7,7 @@ public class Drivertest {
 	
 	  System.setProperty("webdriver.chrome.driver", "/usr/lib64/chromium-browser/chromedriver");
 	  WebDriver driver = new ChromeDriver();
-	  driver.get("https://www.Flipkart.com");
+	  driver.get("https://www.Amazon.com");
 	  driver.quit();
 	  
 }
