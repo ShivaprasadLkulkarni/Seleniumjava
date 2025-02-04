@@ -8,8 +8,8 @@ package Exceptions;
 // Exception > IO Exception and SQL Exception > Runtime Exception - Arthimetic,Nullpointer and NumberFormatException
 // Types of Exceptions  >
 
-// Checked(Compile Time E)= are checked at compile time
-// Unchecked(Run Time E) are not checked at compile time rather they are checked at run time
+// Checked(Compile Time E)= are checked at compile time are IO e and sql
+// Unchecked(Run Time E) are not checked at compile time rather they are checked at run time are nullpointer arrayindexoutofbound
 // Error is an irrecoverable eg OutOfMemoryError, VirtualMachineError,Assertion
 //
 //  handling Exception -try catch block is used to enclose the code that might throw an exception it must be used within the method
