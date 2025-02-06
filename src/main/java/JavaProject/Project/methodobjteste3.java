@@ -9,6 +9,7 @@ public static void main(String[] args) {
 //	obj.sum();
 //	System.out.println("Name : " +obj.name + ","+obj.hobby);
 //	System.out.println("Hobby : " +obj.hobby);
+	
 ////advancemethodobj calling
 //	Advancemethodandobe4 obja = new Advancemethodandobe4();
 //	Advancemethodandobe4.sum();//if methods are static u donot need to create an object directly call
